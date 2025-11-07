@@ -1,0 +1,10 @@
+<resources>
+    <!-- Usa SIEMPRE un padre AppCompat -->
+    <style name="Theme.Idomus" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Colores opcionales -->
+        <item name="colorPrimary">#0F3557</item>
+        <item name="colorPrimaryDark">#0B2A44</item>
+        <item name="colorAccent">#1BAAA6</item>
+        <item name="android:statusBarColor">#0B2A44</item>
+    </style>
+</resources>
